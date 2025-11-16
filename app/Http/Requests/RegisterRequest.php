@@ -28,4 +28,11 @@ class RegisterRequest extends FormRequest
             // 'password_confirmation' => 'required|same:password',
         ];
     }
+
+    // protected function failedAuthorization()
+    // {
+    //     return response()->json([
+    //         'message' => 'You are not authorized to access this resource.',
+    //     ], 403);
+    // }
 }
