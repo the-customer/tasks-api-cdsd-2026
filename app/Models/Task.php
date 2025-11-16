@@ -2,8 +2,8 @@
 
 namespace App\Models;
 
-use App\Enums\Enums\TaskRole;
-use App\Enums\Enums\TaskVisibility;
+use App\Enums\TaskRole;
+use App\Enums\TaskVisibility;
 use App\Enums\TaskStatus;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-use App\Enums\Enums\TaskRole;
+use App\Enums\TaskRole;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Str;

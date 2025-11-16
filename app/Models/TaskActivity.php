@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-use App\Enums\Enums\TaskActivity as ActivityType;
+use App\Enums\TaskActivity as ActivityType;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 

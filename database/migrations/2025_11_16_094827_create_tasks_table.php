@@ -1,6 +1,6 @@
 <?php
 
-use App\Enums\Enums\TaskVisibility;
+use App\Enums\TaskVisibility;
 use App\Enums\TaskStatus;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;

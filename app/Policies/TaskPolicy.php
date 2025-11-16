@@ -2,8 +2,8 @@
 
 namespace App\Policies;
 
-use App\Enums\Enums\TaskRole;
-use App\Enums\Enums\TaskVisibility;
+use App\Enums\TaskRole;
+use App\Enums\TaskVisibility;
 use App\Models\Task;
 use App\Models\User;
 use Illuminate\Auth\Access\Response;
